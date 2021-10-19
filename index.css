@@ -1,0 +1,14 @@
+#inputTable {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    
+}
+
+input,
+select {
+    height: 75%;
+}
+
+button {
+    width: 400px;
+}
